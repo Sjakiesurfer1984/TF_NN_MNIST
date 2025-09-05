@@ -1,0 +1,12 @@
+2025-09-02 13:47:29,478 INFO    MainThread:14980 [wandb_setup.py:_flush():81] Current SDK version is 0.21.3
+2025-09-02 13:47:29,479 INFO    MainThread:14980 [wandb_setup.py:_flush():81] Configure stats pid to 14980
+2025-09-02 13:47:29,479 INFO    MainThread:14980 [wandb_setup.py:_flush():81] Loading settings from C:\Users\TimVos\.config\wandb\settings
+2025-09-02 13:47:29,479 INFO    MainThread:14980 [wandb_setup.py:_flush():81] Loading settings from c:\Users\TimVos\VSC Projects\CSE5ML\Assessment 2\wandb\settings
+2025-09-02 13:47:29,479 INFO    MainThread:14980 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2025-09-02 13:47:29,479 INFO    MainThread:14980 [wandb_init.py:setup_run_log_directory():686] Logging user logs to c:\Users\TimVos\VSC Projects\CSE5ML\Assessment 2\wandb\MLP_Baseline_Run-lr_0.01-bs_64-20250902-134728\wandb\run-20250902_134729-h08ihdf3\logs\debug.log
+2025-09-02 13:47:29,479 INFO    MainThread:14980 [wandb_init.py:setup_run_log_directory():687] Logging internal logs to c:\Users\TimVos\VSC Projects\CSE5ML\Assessment 2\wandb\MLP_Baseline_Run-lr_0.01-bs_64-20250902-134728\wandb\run-20250902_134729-h08ihdf3\logs\debug-internal.log
+2025-09-02 13:47:29,480 INFO    MainThread:14980 [wandb_init.py:monkeypatch_ipython():605] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000002217C79FCB0>
+2025-09-02 13:47:29,480 INFO    MainThread:14980 [wandb_init.py:init():813] calling init triggers
+2025-09-02 13:47:29,480 INFO    MainThread:14980 [wandb_init.py:init():818] wandb.init called with sweep_config: {}
+config: {'model_name': 'MLP_Baseline_Run', 'optimiser': 'Adam', 'learning_rate': 0.01, 'epochs': 5, 'batch_size': 64, '_wandb': {}}
+2025-09-02 13:47:29,480 INFO    MainThread:14980 [wandb_init.py:init():854] starting backend

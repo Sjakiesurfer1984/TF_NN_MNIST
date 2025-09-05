@@ -1,0 +1,28 @@
+{
+  "os":  "Windows-11-10.0.26100-SP0",
+  "python":  "CPython 3.13.5",
+  "startedAt":  "2025-09-02T05:47:29.473741Z",
+  "program":  "c:\\Users\\TimVos\\VSC Projects\\CSE5ML\\Assessment 2\\CSE5ML_22843874_Assessment2_P1T1+3.ipynb",
+  "codePath":  "CSE5ML_22843874_Assessment2_P1T1+3.ipynb",
+  "codePathLocal":  "CSE5ML_22843874_Assessment2_P1T1+3.ipynb",
+  "git":  {
+    "remote":  "https://github.com/Sjakiesurfer1984/TF_NN_MNIST.git",
+    "commit":  "edc2bd8a19e0ec42a12af0b92e0cdc53eebc0672"
+  },
+  "email":  "tim.vos.nl@gmail.com",
+  "root":  "c:\\Users\\TimVos\\VSC Projects\\CSE5ML\\Assessment 2\\wandb\\MLP_Baseline_Run-lr_0.01-bs_64-20250902-134728",
+  "host":  "AIE-LAPTOP-TIM",
+  "executable":  "c:\\Users\\TimVos\\VSC Projects\\CSE5ML\\Assessment 2\\.venv\\Scripts\\python.exe",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "510901874688",
+      "used":  "357135659008"
+    }
+  },
+  "memory":  {
+    "total":  "16844595200"
+  },
+  "writerId":  "rcp4htd91ac52af663guz6n4y3nbzv5v"
+}
