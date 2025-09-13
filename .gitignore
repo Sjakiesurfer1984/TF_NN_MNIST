@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / C extensions
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE and Editor Folders
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+
+# Weights & Biases (wandb) local files
+/Wandb/
+wandb/
+
+# Model Artifacts and Image data
+/MLP_Models/
+/CNN_models/
+*.jpg
+*.png
+
+# Local data and log files (optional, but good practice)
+*.log
+data/
+*.csv
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
